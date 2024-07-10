@@ -21,23 +21,23 @@
    "replicas": [
       {
          "id": "0",
-         "host": "localhost",
+         "host": "3.81.189.132",
          "port": "11000"
       },
       {
          "id": "1",
-         "host": "localhost",
-         "port": "11001"
+         "host": "3.17.161.214",
+         "port": "11000"
       },
       {
          "id": "2",
-         "host": "localhost",
-         "port": "11002"
+         "host": "54.241.117.245",
+         "port": "11000"
       },
       {
          "id": "3",
-         "host": "localhost",
-         "port": "11003"
+         "host": "54.202.27.229",
+         "port": "11000"
       }
    ]
 }
